@@ -1,0 +1,7 @@
+step_index,item_id,knapsack_id,profit,weight,reason,remaining_after_json
+0,j1,k1,110.0,40.0,best_fit,"{""k1"": 25.0, ""k2"": 85.0}"
+1,j2,k2,150.0,60.0,best_fit,"{""k1"": 25.0, ""k2"": 25.0}"
+2,j3,,70.0,30.0,no_feasible_knapsack,"{""k1"": 25.0, ""k2"": 25.0}"
+3,j4,k1,40.0,20.0,best_fit,"{""k1"": 5.0, ""k2"": 25.0}"
+4,j5,k2,30.0,20.0,best_fit,"{""k1"": 5.0, ""k2"": 5.0}"
+5,j6,k1,5.0,5.0,best_fit,"{""k1"": 0.0, ""k2"": 5.0}"

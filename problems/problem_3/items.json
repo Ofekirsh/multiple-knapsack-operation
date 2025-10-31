@@ -1,0 +1,11 @@
+[
+  {"id": "j1", "profit": 80, "weight": 40},
+  {"id": "j2", "profit": 20, "weight": 10},
+  {"id": "j3", "profit": 40, "weight": 40},
+  {"id": "j4", "profit": 40, "weight": 30},
+  {"id": "j5", "profit": 60, "weight": 50},
+  {"id": "j6", "profit": 60, "weight": 50},
+  {"id": "j7", "profit": 65, "weight": 55},
+  {"id": "j8", "profit": 25, "weight": 25},
+  {"id": "j9", "profit": 30, "weight": 40}
+]

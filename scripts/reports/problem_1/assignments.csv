@@ -1,0 +1,7 @@
+item_id,knapsack_id,profit,weight,placed,reason
+j1,k1,110.0,40.0,1,best_fit
+j2,k2,150.0,60.0,1,best_fit
+j3,,70.0,30.0,0,no_feasible_knapsack
+j4,k1,40.0,20.0,1,best_fit
+j5,k2,30.0,20.0,1,best_fit
+j6,k1,5.0,5.0,1,best_fit

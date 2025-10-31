@@ -1,0 +1,2 @@
+total_items,placed_items,skipped_items,placed_pct,total_profit,capacity_sum,used_sum,remaining_sum,utilization_pct,profit_weight_efficiency,balance_load_std,avg_profit_per_knapsack
+6,5,1,83.333,335.000,150.000,145.000,5.000,96.667,2.310,7.500,167.500
